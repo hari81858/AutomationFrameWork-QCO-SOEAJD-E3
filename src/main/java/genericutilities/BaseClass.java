@@ -73,7 +73,7 @@ public class BaseClass {
 		
 		driver.get(URL);
 	}
-	@BeforeMethod(alwaysRun = true)
+	@BeforeMethod(alwaysRun=true)
 	public void bmConfig() throws Throwable
 	{
 		String USERNAME = pUtil.readDataFromPropertyFile("username");

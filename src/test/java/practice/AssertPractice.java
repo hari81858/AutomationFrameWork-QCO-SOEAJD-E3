@@ -19,6 +19,10 @@ public class AssertPractice {
 		System.out.println("step3");
 		System.out.println("step4");
 		
+		
+		
+		
+		
 
 		sa.assertEquals('a', 'b');
 		sa.assertAll();

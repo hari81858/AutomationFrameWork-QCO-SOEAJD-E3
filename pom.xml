@@ -61,6 +61,14 @@
 <artifactId>lombok</artifactId> 
 <version>1.18.24</version> 
 <scope>provided</scope> </dependency> 
+
+<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.0.9</version>
+</dependency>
+
 	  
 	  
 	  
